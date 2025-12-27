@@ -172,6 +172,7 @@ C++ Benchmark Authoring Library/Framework.
 * [fmtlog](https://github.com/MengRao/fmtlog) - A fmtlib-style logging library with latency in nanoseconds.
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 * [loguru](https://github.com/emilk/loguru) - A lightweight and flexible C++ logging library
+* [lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library
 
 ### Threading
 
